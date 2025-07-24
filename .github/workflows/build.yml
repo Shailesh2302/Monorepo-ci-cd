@@ -1,4 +1,4 @@
-name: Build Succeeds on PR
+name: Build Succeeds on PR for just practice
 
 on:
   pull_request:
